@@ -90,14 +90,15 @@ li a:hover {
 	border: 2px solid black;
 	
 }
-
+.push
+{
+	height: 50px;
+}
 .footer
-.push {
+ {
 	height: 50px;
 	text-align: center;
 	background-color: red;
 	margin: 0px;
-	color: white;
 	border: 1px solid black;
-	
 }
