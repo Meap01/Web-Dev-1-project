@@ -84,7 +84,6 @@ li a:hover {
 }
 #leftbox, #centerbox, #rightbox {
 	float: center;
-
 	width: 25%;
 	margin: 3%;
 	border: 2px solid black;
