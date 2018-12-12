@@ -134,6 +134,11 @@ input, textarea {
   border: 1px solid #999;
 }
 
+.tabletitle {
+	font-size: 2em;
+	text-align: center;
+}
+
 input:focus, textarea:focus {
   border-color: #000;
 }
@@ -161,7 +166,6 @@ button {
 	width: 60%;
 	height: 30%;
 	min-height:30px;
-	
 }
 
 .divTable {
@@ -169,6 +173,7 @@ button {
 	width: 50%;
 	text-align: center;
 	margin: auto;
+	border: 1px solid #000;
 }
 .divTableRow {
 	display: table-row;
