@@ -146,3 +146,14 @@ textarea {
 button {
   margin-left: .5em;
 }
+#comment {
+	vertical-align: center;
+}
+.container img {
+
+	display: inline-block;
+	width: 60%;
+	height: 30%;
+	min-height:30px;
+	
+};
