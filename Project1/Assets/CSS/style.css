@@ -48,7 +48,10 @@ li a:hover {
 }
 #WebsiteName {
 	width: 100%;
-	height: 10%;
+	height: auto;
+	margin: 10px;
+	display: inline-block;
+	min-height:30px;
 }
 
 
