@@ -147,7 +147,8 @@ button {
   margin-left: .5em;
 }
 #comment {
-	vertical-align: center;
+	width: 100%;
+	height: 30%;
 }
 .container img {
 
