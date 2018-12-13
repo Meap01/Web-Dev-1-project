@@ -155,6 +155,7 @@ button {
 #comment {
 	width: 100%;
 	height: 30%;
+	min-height: 200px;
 }
 .container img {
 
