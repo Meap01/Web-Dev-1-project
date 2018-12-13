@@ -163,7 +163,6 @@ button {
 	width: 60%;
 	height: 30%;
 	min-height:30px;
-	
 }
 
 .divTable {
@@ -201,4 +200,9 @@ button {
 	height: auto;
 	min-height: 300px;
 	width: auto;
+}
+#mainvideo {
+	height: auto;
+	min-height: 500px;
+	width: 30%;
 }
