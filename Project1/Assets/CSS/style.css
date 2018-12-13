@@ -60,7 +60,7 @@ li a:hover {
 }
 
 #pagetitle {
-	font-size: 64;
+	font-size: 58px;
 	margin: 0px;
 	margin-left: 20px;
 }
@@ -71,7 +71,7 @@ li a:hover {
 	width: 60%;
 	margin: 10px;
 	text-align: center;
-	font-size: 20;
+	font-size: 26px;
 }
 
 .maincontent img {
@@ -86,6 +86,7 @@ li a:hover {
 .container {
 	display: inline-block;
 	text-align: center;
+	font-size: 16px;
 }
 #leftbox, #centerbox, #rightbox {
 	float: center;
@@ -128,9 +129,8 @@ label {
 input, textarea {
   font: 1em sans-serif;
   width: 75%;
-
   -moz-box-sizing: border-box;
-       box-sizing: border-box;
+  box-sizing: border-box;
   border: 1px solid #999;
 }
 
@@ -147,6 +147,7 @@ textarea {
   vertical-align: top;
   height: 30%;
   resize: vertical;
+  min-height: 200px;
 }
 
 .button {
@@ -159,6 +160,7 @@ button {
 #comment {
 	width: 100%;
 	height: 30%;
+	min-height: 200px;
 }
 .container img {
 
@@ -199,4 +201,14 @@ button {
 }
 .divTableBody {
 	display: table-row-group;
+}
+.video {
+	height: auto;
+	min-height: 300px;
+	width: auto;
+}
+#mainvideo {
+	height: auto;
+	min-height: 500px;
+	width: 30%;
 }
